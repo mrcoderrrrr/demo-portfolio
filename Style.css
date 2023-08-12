@@ -1,0 +1,145 @@
+.header{
+    width: auto;
+    padding: 24px;
+}
+
+.header img{
+   vertical-align: text-top;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* home css */
+
+/* home text */
+.home{
+    justify-content: space-around;
+}
+
+.home_text span{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.home_text p{
+color: gray;
+justify-content: center;
+margin-right: 30px;
+justify-items: left;
+}
+
+.home_text h1{
+    color: black;
+    font-size: 3em;
+    width: 500px;
+}
+
+.home_text h1 span{
+    background: linear-gradient(to right,blue,pink);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 3rem;
+    width: 600px;
+}
+.home_text p{
+    margin: 0;
+}
+
+
+/* home download */
+.home_download{
+    margin-top: 10px;
+} 
+
+/* home mobile */
+.home_mobile img{
+    width: 358px;
+    height: 613px;
+}
+
+/* info css */
+.info{
+    margin-top: 170px;
+    justify-content: center;
+}
+
+.info_text{
+   text-align: center;
+}
+
+/* private chat */
+.private_chat{
+    margin-top: 170px;
+    justify-content: space-around;
+}
+
+.private_chat_text p{
+    color: gray;
+}
+
+/* shared gallery */
+.shared_gallery{
+    margin-top: 170px;
+    justify-content: space-around;
+}
+
+.shared_gallery_text p{
+    color: gray;
+}
+
+/* safe and secure */
+.safe_secure{
+    margin-top: 170px;
+    justify-content: space-around;
+}
+
+.safe_secure_text p{
+    color: gray;
+}
+
+/* download app */
+.download_app{
+    margin-top: 170px;
+    text-align: center;
+}
+
+/* footer */
+.footer{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.footer p span{
+    color: blue;
+}
+
+.footer_details{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.footer_details nav li{
+    display: inline-block;
+    color: blue;
+}
+
+.footer_details .footer_follow{
+    display: flex;
+    align-items: center;
+    padding: auto;
+}
+
+
+
+/* 
+
+background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+
+*/
